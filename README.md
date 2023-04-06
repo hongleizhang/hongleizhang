@@ -19,7 +19,7 @@ This is Honglei Zhang. I am currently a third-year Ph.D. student in Beijing Jiao
 
 - I’m working with Prof. [Yidong Li](https://faculty.bjtu.edu.cn/8408/) and [Jun Wu](https://faculty.bjtu.edu.cn/8620/) at Beijing Jiaotong University.
 - My research interests include recommender systems, machine learning and privacy computing.
-- My Chinese personal page on Zhihu is [hongleizhang](https://www.zhihu.com/people/hongleizhang).
+- My Chinese personal page on Zhihu is [Hongleizhang](https://www.zhihu.com/people/hongleizhang).
 - Feel free to drop me an email if you have any questions.
 
 ![](https://github-readme-stats.vercel.app/api?username=hongleizhang)
