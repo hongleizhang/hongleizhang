@@ -21,5 +21,3 @@ This is Honglei Zhang. I am a fourth-year Ph.D. student at Beijing Jiaotong Univ
 - Currently, I am a visiting Ph.D. student working with Prof. [Zhiqi Shen](https://personal.ntu.edu.sg/zqshen/) at Nanyang Technological University.
 - My research interests include recommender systems, machine learning, and privacy computing.
 - Feel free to drop me an email if you have any questions.
-
-![](https://github-readme-stats.vercel.app/api?username=hongleizhang)
