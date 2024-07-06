@@ -19,5 +19,5 @@ This is Honglei Zhang. I am a fourth-year Ph.D. student at Beijing Jiaotong Univ
 
 - I’m working with Prof. [Yidong Li](https://faculty.bjtu.edu.cn/8408/) and [Jun Wu](https://faculty.bjtu.edu.cn/8620/) at Beijing Jiaotong University.
 - Currently, I am a visiting Ph.D. student working with Prof. [Zhiqi Shen](https://personal.ntu.edu.sg/zqshen/) at Nanyang Technological University.
-- My research interests include recommender systems, machine learning, and privacy computing.
-- Feel free to drop me an email if you have any questions.
+- My research interests include recommender systems, machine learning, and federated learning.
+- Feel free to drop me an email if you want to collaborate or discuss with me.
